@@ -1,0 +1,1 @@
+https://krk2.kargo.com/api/v1/prebid

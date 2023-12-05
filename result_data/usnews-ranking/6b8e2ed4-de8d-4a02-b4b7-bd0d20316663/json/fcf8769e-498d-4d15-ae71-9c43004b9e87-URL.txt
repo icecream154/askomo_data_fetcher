@@ -1,0 +1,1 @@
+https://api.permutive.com/adv/v2/segment?new-session=true&k=88d83ac0-6145-43be-9204-6ef481076e36

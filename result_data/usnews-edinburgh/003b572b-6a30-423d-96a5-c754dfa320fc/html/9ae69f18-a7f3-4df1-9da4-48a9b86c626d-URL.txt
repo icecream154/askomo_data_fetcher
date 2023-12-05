@@ -1,0 +1,1 @@
+https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=

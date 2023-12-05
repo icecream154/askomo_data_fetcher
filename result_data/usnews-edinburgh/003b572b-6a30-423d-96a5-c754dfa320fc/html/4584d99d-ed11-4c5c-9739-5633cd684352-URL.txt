@@ -1,0 +1,1 @@
+https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fsync.quantumdex.io%2Fsetuid%3Fbidder%3Dpubmatic%26uid%3D

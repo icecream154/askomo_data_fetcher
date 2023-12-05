@@ -1,0 +1,1 @@
+https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs

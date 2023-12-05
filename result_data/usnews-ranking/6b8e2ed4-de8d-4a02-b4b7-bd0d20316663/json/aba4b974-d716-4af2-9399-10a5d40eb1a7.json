@@ -1,0 +1,15 @@
+{
+    "geo": {
+        "zips": "90001-90068+90070-90084+90086-90089+90091+90093-90096+90099+90189",
+        "fips": "06037",
+        "lat": "33.9733",
+        "long": "-118.2487",
+        "country_code": "US",
+        "county": "LOSANGELES",
+        "region_code": "CA",
+        "city": "LOSANGELES",
+        "areacode": "323+213+310",
+        "timezone": "PST",
+        "userip": "67.198.131.75"
+    }
+}

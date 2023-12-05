@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "account_id": 11882,
+  "site_id": 41456,
+  "zone_id": 173892,
+  "size_id": 2,
+  "alt_size_ids": [
+    57
+  ],
+  "tracking": "",
+  "inventory": {
+    "vertical": "education",
+    "pbadslot": "%2F4020%2Fusn.education%2Fhighereducation%2Fbestglobaluniversities%2Frankings%2Fglobaluniversities",
+    "page": "https:\/\/www.usnews.com\/education\/best-global-universities\/rankings",
+    "domain": "usnews.com"
+  },
+  "ads": [
+    {
+      "status": "no-ads",
+      "reason": "no-compatible-ads",
+      "error_code": "10",
+      "impression_id": "60fc88ea-23a4-4496-bf2b-bf77d2d48fd5"
+    }
+  ]
+}

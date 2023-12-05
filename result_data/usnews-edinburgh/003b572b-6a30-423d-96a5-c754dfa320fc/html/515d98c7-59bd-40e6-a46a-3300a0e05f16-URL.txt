@@ -1,0 +1,1 @@
+https://ads.pubmatic.com/AdServer/js/user_sync.html?p=162882&userIdMacro=PM_UID&predirect=%2F%2Fsync.adkernel.com%2Fuser-sync%3Fzone%3D149271%26dsp%3D614719%26t%3Diframe%26uid%3DPM_UID

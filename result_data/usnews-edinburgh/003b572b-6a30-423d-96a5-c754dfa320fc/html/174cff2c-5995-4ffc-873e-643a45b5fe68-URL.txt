@@ -1,0 +1,1 @@
+https://static.criteo.net/js/ld/publishertag.prebid.139.js

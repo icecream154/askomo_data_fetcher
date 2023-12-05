@@ -1,0 +1,1 @@
+https://cdn.getblueshift.com/blueshift.js

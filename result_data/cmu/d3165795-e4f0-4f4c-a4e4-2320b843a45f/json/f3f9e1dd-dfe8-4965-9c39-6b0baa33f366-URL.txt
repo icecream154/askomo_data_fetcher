@@ -1,0 +1,1 @@
+https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT

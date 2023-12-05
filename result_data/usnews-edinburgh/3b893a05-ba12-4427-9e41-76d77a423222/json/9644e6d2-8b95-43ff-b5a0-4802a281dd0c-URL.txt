@@ -1,0 +1,1 @@
+https://gum.criteo.com/sid/json?origin=prebid&topUrl=https%3A%2F%2Fwww.usnews.com%2F&domain=www.usnews.com&cw=1&lsw=1

@@ -1,0 +1,1 @@
+https://accounts.google.com/gsi/iframe/select?client_id=827045496365-i13g1j6k5dp0lqv6lturaplp3678bnce.apps.googleusercontent.com&auto_select=false&ux_mode=popup&ui_mode=card&as=YpoMTnQ28nOcCguXba9ZNg&is_itp=true&channel_id=895bafecfd4a73ea4e193323d6a3d2cb32ebb8a668788f54e2a4db6a2898ab6a&origin=https%3A%2F%2Fwww.usnews.com

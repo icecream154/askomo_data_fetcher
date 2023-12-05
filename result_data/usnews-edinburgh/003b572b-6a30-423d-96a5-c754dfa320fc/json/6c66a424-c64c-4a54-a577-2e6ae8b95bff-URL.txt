@@ -1,0 +1,1 @@
+https://api.sail-personalize.com/v1/personalize/simple?pageviews=1&isMobile=0

@@ -1,0 +1,40 @@
+{
+	"short_name": "mldcmu",
+	"name": "Machine Learning at CMU - Mobile Web App",
+	"description": "Mobile Web App for the Machine Learning Department at Carnegie Mellon University",
+	"start_url": "app-events.html",
+	"background_color": "#333",
+	"theme_color": "#c00",
+	"display": "standalone",
+	"icons": [{
+			"src": "https://mldcmu.ai/uploads/icon-128.png",
+			"type": "image/png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "https://mldcmu.ai/uploads/icon-152.png",
+			"type": "image/png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "https://mldcmu.ai/uploads/icon-144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "https://mldcmu.ai/uploads/icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "https://mldcmu.ai/uploads/icon-256.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		},
+		{
+			"src": "https://mldcmu.ai/uploads/icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}
